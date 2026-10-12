@@ -25,18 +25,15 @@ and their applications to real-world problems.
 ### 🏥 Conformal Prediction for Healthcare
 
 Bachelor's thesis investigating uncertainty
-
 quantification across medical classification
-
 and regression tasks.
 
 Explored conformal prediction and adaptive
-
 prediction sets across tabular data,
-
 medical imaging, and regression.
 
-[Explore the Project](https://github.com/matteo-zabban/conformal-prediction-healthcare)
+[Check out the project! ](https://github.com/matteo-zabban/conformal-prediction-healthcare)
+
 ### Skin Lesion Classification
 Efficiency-aware CNN architectures for
 multi-class medical image classification.
