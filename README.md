@@ -18,6 +18,7 @@ and their applications to real-world problems.
 - Statistical Learning
 - Quantitative Finance
 - Time Series Forecasting
+- Bioinformatics
 
 ## 🚀 Featured Projects
 
