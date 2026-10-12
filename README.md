@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Matteo 👋
 
-<!--
-**matteo-zabban/matteo-zabban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Data Science and Machine Learning at
+University College London (UCL).
 
-Here are some ideas to get you started:
+🎓 BSc in Mathematical and Computing Sciences
+for Artificial Intelligence at Bocconi University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about Machine Learning,
+Statistical Learning, Deep Learning,
+and their applications to real-world problems.
+
+## 🔬 Research Interests
+
+- Machine Learning & Deep Learning
+- Uncertainty Quantification
+- Conformal Prediction
+- Statistical Learning
+- Quantitative Finance
+- Time Series Forecasting
+
+## 🚀 Featured Projects
+
+### Conformal Prediction for Healthcare
+Bachelor's thesis investigating uncertainty
+quantification across medical classification
+and regression tasks.
+
+### Skin Lesion Classification
+Efficiency-aware CNN architectures for
+multi-class medical image classification.
+
+### Portfolio Optimization
+Mean-Variance optimization and risk analysis
+using Hong Kong equity market data.
+
+## 🛠️ Technical Skills
+
+**Languages:** Python, R, C++
+
+**ML & DL:** PyTorch, TensorFlow, scikit-learn
+
+**Data Science:** pandas, NumPy, SciPy
+
+**Visualization:** Matplotlib, Seaborn, Plotly
